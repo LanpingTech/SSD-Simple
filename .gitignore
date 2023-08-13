@@ -1,0 +1,7 @@
+__pycache__/*
+.vscode/*
+annotations_cache/*
+data/*
+dataset/*
+result/*
+weights/*
